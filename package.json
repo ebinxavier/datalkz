@@ -4,7 +4,8 @@
   "description": "please run a server in this folder and open index.html",
   "main": "DRACOLoader.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"superstatic"
   },
   "repository": {
     "type": "git",
