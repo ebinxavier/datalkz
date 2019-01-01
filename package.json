@@ -1,0 +1,22 @@
+{
+  "name": "forklift",
+  "version": "1.0.0",
+  "description": "please run a server in this folder and open index.html",
+  "main": "DRACOLoader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ebinxavier/datalkz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ebinxavier/datalkz/issues"
+  },
+  "homepage": "https://github.com/ebinxavier/datalkz#readme",
+  "dependencies": {
+    "superstatic": "^6.0.4"
+  }
+}
